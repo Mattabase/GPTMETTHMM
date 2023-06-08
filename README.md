@@ -1,5 +1,3 @@
-[![ChatGPT downloads](https://img.shields.io/badge/Visit%20Website-%F0%9F%9A%80%20streamlit%20%F0%9F%9A%80-red)](https://web-chatgpt.streamlit.app)
-
 <p align="center">
   <img width="180" src="./assets/cHATGPT.jpg" alt="ChatGPT">
   <h1 align="center">Free GPT4 GUI😀</h1>
@@ -8,16 +6,16 @@
 
 **An Awesome Web Gui For Both GPT-4, BingGPT and Falcon AI , with hundreds of built in prompts and features that work out of the box without any API Keys!😄 (Uses Major API Providers like Ora.sh)**
 
-**[🚀 Download APP 🚀](https://web-chatgpt.streamlit.app)**
+**[🚀 Download APP 🚀](https://github.com/vaibhavard/Free-GPT4-GUI/blob/main/AwesomeGPT-GUI.exe)**
 
----
-> **I have currently kept the source code of the app *secret* , since this app exploits some flaws in Different Websites and API (Such as BingAI)** ( programmed in python). 
-> If you want the source code you can contact me @ vaibhavarduino@gmail.com
+> ### Usage
+Just Download and run  **[AwesomeGPT-GUI.exe](https://github.com/vaibhavard/Free-GPT4-GUI/blob/main/AwesomeGPT-GUI.exe)**  and Ask!
 
-### How does it work?
+> ### Source Code
+**I have currently kept the source code of the app *secret* , since this app exploits some flaws in Different Websites and API (Such as BingAI)** (programmed in python). 
+If you want the source code you can contact me @ vaibhavarduino@gmail.com
 
-
-### Just Download and run the executable and Ask!
+> ### Examples
 
 ![chatgpt cmd](./assets/chatgpt.png)
 
@@ -25,3 +23,6 @@
 
 ![chatgpt cmd](./assets/changer.png)
 ![chatgpt sync prompts](./assets/prompt.png)
+
+**Thank you for using Free GPT4 GUI! If you have any questions or issues, please feel free to contact the developer.**
+
