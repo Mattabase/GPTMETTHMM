@@ -4,7 +4,7 @@
   <p align="center"> Allows you to use GPT4 For Free (No Conversation Limit) </p>
 </p>
 
-**An Awesome Web Gui For Both GPT-4, BingGPT and Falcon AI , with hundreds of built in prompts and features that work out of the box without any API Keys!😄 (Uses Major API Providers like Ora.sh)**
+**An Awesome  Gui For Both GPT-4, BingGPT and Falcon AI , with hundreds of built in prompts and features that work out of the box without any API Keys!😄 (Uses Major API Providers like Ora.sh)**
 
 **[🚀 Download APP 🚀](https://github.com/vaibhavard/Free-GPT4-GUI/raw/main/AwesomeGPT-GUI.exe)**
 
