@@ -6,10 +6,10 @@
 
 **An Awesome Web Gui For Both GPT-4, BingGPT and Falcon AI , with hundreds of built in prompts and features that work out of the box without any API Keys!😄 (Uses Major API Providers like Ora.sh)**
 
-**[🚀 Download APP 🚀](https://github.com/vaibhavard/Free-GPT4-GUI/blob/main/AwesomeGPT-GUI.exe)**
+**[🚀 Download APP 🚀](https://github.com/vaibhavard/Free-GPT4-GUI/raw/main/AwesomeGPT-GUI.exe)**
 
 > ### Usage
-Just Download and run  **[AwesomeGPT-GUI.exe](https://github.com/vaibhavard/Free-GPT4-GUI/blob/main/AwesomeGPT-GUI.exe)**  and Ask!
+Just Download and run  **[AwesomeGPT-GUI.exe](https://github.com/vaibhavard/Free-GPT4-GUI/raw/main/AwesomeGPT-GUI.exe)**  and Ask!
 
 > ### Source Code
 **I have currently kept the source code of the app *secret* , since this app exploits some flaws in Different Websites and API (Such as BingAI)** (programmed in python). 
